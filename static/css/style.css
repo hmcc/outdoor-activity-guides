@@ -1,0 +1,135 @@
+/* top banner */
+#contact {
+  width: 1140px;
+  text-align: right;
+}
+
+/* navigation */
+.nav-tabs.nav-justified>li>a {
+  border-bottom: 1px solid #317d8d;
+}
+
+.nav>li>a {
+  color: #103840;
+}
+
+.nav>li>a.selected {
+  color: #317d8d;
+}
+
+.nav>li>a:hover {
+  border: 1px solid #317d8d;
+  background-color: #eef7fa;
+}
+
+#nav ul li a:hover {
+  color: #317d8d;
+}
+
+/* other shared stuff */
+a {
+  text-decoration: none;
+  outline: none;
+  color: #40230a;
+}
+
+a:hover {
+  color: #8d5c31;
+}
+
+.lead, blockquote {
+  font-size: 16px;
+}
+
+/* home */
+.carousel-caption a {
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
+
+.carousel-caption a:hover {
+  text-decoration: underline;
+}
+
+#twitter-widget-0 {
+  height: 510px;
+}
+
+.home {
+  padding-bottom: 20px;
+}
+
+.contact-detail {
+  height: 270px;
+}
+
+/* course dates */
+.calendar div.col-md-4.panel {
+  height: 300px;
+}
+
+.alternate {
+  background-color: #f3fcff;
+}
+
+dd {
+  padding-bottom: 10px;
+}
+
+/* climbing */
+
+/* walking */
+.climbing, .walking {
+  padding: 20px 100px 0;
+}
+
+.panel-default>.panel-heading {
+  color: #333;
+  background-color: #f3fcff;
+  border-color: #eef7fa;
+}
+
+#bmc_logo {
+  padding: 20px 0;
+}
+
+/* biking */
+
+/* advice */
+
+/* about */
+.biking, .advice, .about {
+  padding: 20px;
+}
+
+.biking img, .advice img, .about img {
+  padding-bottom: 20px;
+}
+
+/* testimonials */
+.testimonials img {
+  padding: 30px 0;
+}
+
+/* copyright */
+
+#copyright {
+  clear: left;
+  font-size: 9pt;
+  background: url(../img/footer.jpg) repeat-x; 
+}
+
+#copyright p
+{
+  padding-top: 2px;
+}
+
+#copyright a {
+  color: #317d8d;
+}
+
+#copyright a:hover {
+  color: #61c3d9;
+}
+
